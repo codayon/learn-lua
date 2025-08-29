@@ -1,12 +1,12 @@
 # Hello Lua!
 
 ## Basics
-- [ ] Writing comments
-- [ ] Printing output
+- [x] Writing comments
+- [x] Printing output
 - [ ] Basic syntax rules
 
 ## Variables and Data Types
-- [ ] Declaring variables
+- [x] Declaring variables
 - [ ] Global vs local variables
 - [ ] Data types (`nil`, `boolean`, `number`, `string`, `table`, `function`)
 - [ ] Type checking
