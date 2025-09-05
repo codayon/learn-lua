@@ -1,15 +1,15 @@
 ## Lua 5.4 Reference Manual 
 
-- [ ] 1 – Introduction
-- [ ] 2.1 – Values and Types
-- [ ] 2.2 – Environments and the Global Environment
-- [ ] 2.3 – Error Handling
-- [ ] 2.4 – Metatables and Metamethods
-- [ ] 2.5.1 – Incremental Garbage Collection
-- [ ] 2.5.2 – Generational Garbage Collection
-- [ ] 2.5.3 – Garbage-Collection Metamethods
-- [ ] 2.5.4 – Weak Tables
-- [ ] 2.6 – Coroutines
+- [x] 1 – Introduction
+- [x] 2.1 – Values and Types
+- [x] 2.2 – Environments and the Global Environment
+- [x] 2.3 – Error Handling
+- [x] 2.4 – Metatables and Metamethods
+- [x] 2.5.1 – Incremental Garbage Collection
+- [x] 2.5.2 – Generational Garbage Collection
+- [x] 2.5.3 – Garbage-Collection Metamethods
+- [x] 2.5.4 – Weak Tables
+- [x] 2.6 – Coroutines
 - [ ] 3.1 – Lexical Conventions
 - [ ] 3.2 – Variables
 - [ ] 3.3.1 – Blocks
